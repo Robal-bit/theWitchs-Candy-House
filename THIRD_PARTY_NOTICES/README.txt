@@ -1,0 +1,1 @@
+These original copyright, license and attribution notices are retained unchanged. Package notices are copied from the installed package versions used by the project. Some packages are editor/development dependencies. Unity engine and Mono runtime notices embedded in the application are also retained. No new author or publisher is asserted by the neutral product namespace.
